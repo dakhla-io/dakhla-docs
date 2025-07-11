@@ -1,2 +1,3 @@
-# dakhla-docs
-Project documentation for Dakhla. Includes SRS, SDS, reports, mockups, and technical plans.
+# Dakhla Documentation
+
+This repository contains all documentation related to the Dakhla Final Year Project, including SRS, SDS, Gantt charts, reports, and planning materials.
